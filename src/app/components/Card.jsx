@@ -20,7 +20,7 @@ export const Card = ({
                     <div className="col-10 col-sm-10 col-md-10 col-lg-10">
                         <div className="card-body">
                             <span className="card-author">
-                                {moment(created_at).format('h [hours], MMMM') } by {author}
+                                { created_at } by {author}
                             </span>                                                                         
                             <p className="card-text">
                                 <span className="card-story">
