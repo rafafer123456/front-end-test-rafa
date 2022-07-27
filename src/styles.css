@@ -1,0 +1,103 @@
+.navbar-light .navbar-nav .navbar-align-left{
+    border-radius: 2px;
+    border: solid 1px #1797ff;
+    color: #007bff !important;
+    font-family: Roboto-Medium;
+    height: 31px;
+    padding: 3px 16px 17px;    
+    width: 98px;               
+    size: 16px;
+}
+
+.navbar-light .navbar-nav .navbar-align-right {
+    border-radius: 2px;
+    border: solid 1px #d6d6d6;
+    color: #69747f !important;
+    height: 31px;
+    padding: 3px 16px 0 17px; 
+    width: 98px;
+    font-family: Roboto-Medium;
+    size: 16px;    
+}
+
+.nav-top {
+    margin-top: 3% !important;
+}
+
+.hacker-new {
+    box-shadow: 0 1px 4px 0 rgba(0, 21, 41, 0.12);
+    background-image: linear-gradient(to bottom, #ececec -32%, #fff 124%);
+    font-family: Baskerville;
+    padding: 44px 0px 44px 15%;
+    size: 28px !important;   
+}
+
+.select-new {    
+    width: 183px;
+    height: 22px;
+    margin: 0 19px 0 0;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.57;
+    letter-spacing: normal;
+    color: #343434;      
+}
+
+.select-new-option {
+    width: 49px;
+    height: 22px;
+    margin: 0 0 65px 13px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.57;
+    letter-spacing: normal;
+    color: #343434;
+}
+
+.card-right{
+    width: 68px;
+    height: 90px;
+    margin: 0 0 0 16px;
+    padding: 35px 22px 33px;
+    opacity: 0.06;
+    border-radius: 6px;
+    border: solid 1px #606060;
+    background-color: #606060;
+}
+
+.card-right img {
+    width: 24px;
+    height: 22px;
+    object-fit: contain;  
+}
+
+.card-author {    
+    font-family: Roboto;
+    font-size: 11px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #767676;
+}
+
+.card-story {
+    width: 440px;
+    height: 40px;
+    margin: 36px 16px 14px 0;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 500;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.43;
+    letter-spacing: 0.25px;
+    color: #606060;
+}
