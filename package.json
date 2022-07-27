@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "axios": "^0.27.2",
+    "bootstrap-less": "^3.3.8",
+    "evergreen-ui": "^6.10.3",
+    "moment": "^2.29.4",
     "query-string": "^7.1.1",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",

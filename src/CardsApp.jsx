@@ -1,7 +1,7 @@
 import { AppRouter } from './router/AppRouter';
 
 
-export const HeroesApp = () => {
+export const CardsApp = () => {
   return (
     <>
         
