@@ -1,12 +1,7 @@
-//import { Link } from 'react-router-dom';
-import * as moment from 'moment';
 
-const CharactersByHero = ({ alter_ego, characters}) => {    
-    return ( alter_ego === characters )
-     ? <></>
-     : <p>{ characters }</p>;
-}
+import * as moment_ from 'moment';
 
+const moment = moment_;
 
 export const Card = ({     
     objectID,
