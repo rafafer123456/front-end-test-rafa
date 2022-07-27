@@ -11,7 +11,7 @@ export const Card = ({
     author,
 }) => {
     
-    const heartImageUrl = `/dist/assets/heart-transparent.jpg`;
+    const heartImageUrl = `/assets/heart-transparent.jpg`;
     
     return (
         <div className="col-xs-12 animate__animated animate__fadeIn">
